@@ -1,0 +1,16 @@
+[
+{
+  "modid": "venh",
+  "name": "Vanilla Enhanced Core",
+  "description": "Enhances the vanilla game with simple new items, and backporting a few items.",
+  "version": "${version}",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Roadhog360"],
+  "credits": "Zowja and Ev_n for some textures used.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

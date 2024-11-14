@@ -1,0 +1,36 @@
+item.ItemIngotBlazicite.name=Blazicite Ingot
+item.ItemRubySpade.name=Ruby Spade
+item.ItemEmeraldSpade.name=Emerald Spade
+item.ItemTinSpade.name=Tin Spade
+item.ItemCopperSpade.name=Copper Spade
+item.ItemOsmiumSpade.name=Osmium Spade
+item.ItemIridiumSpade.name=Iridium Spade
+item.ItemBronzeSpade.name=Bronze Spade
+item.ItemSteelSpade.name=Steel Spade
+item.ItemBlazicitePickaxe.name=Blazisite Pickaxe
+item.ItemBlaziciteSpade.name=Blazisite Spade
+item.ItemBlaziciteAxe.name=Blazisite Axe
+item.ItemBlaziciteSword.name=Blazisite Sword
+item.ItemBlaziciteHoe.name=Blazisite Hoe
+
+tile.BlockOreBlazicite.name=Blazisite Ore
+
+tile.BlockRuby.name=Ruby Block
+tile.BlockSapphire.name=Sapphire Block
+tile.BlockCharcoal.name=Charcoal Block
+tile.BlockAnthracite.name=Anthracite Block
+
+tile.BlockMetal.Copper.name=Copper Block
+tile.BlockMetal.Tin.name=Tin Block
+tile.BlockMetal.Osmium.name=Osmium Block
+tile.BlockMetal.Iridium.name=Iridium Block
+tile.BlockMetal.Bronze.name=Bronze Block
+tile.BlockMetal.Steel.name=Steel Block
+tile.BlockMetal.Tungsten.name=Tungsten Block
+
+tile.BlockConcretePowder.Grey.name=Grey Concrete Powder
+tile.BlockConcretePowder.Silver.name=Light Grey Concrete Powder
+tile.BlockConcrete.Grey.name=Grey Concrete
+tile.BlockConcrete.Silver.name=Light Grey Concrete
+tile.BlockBrickDyed.Grey.name=Grey Bricks
+tile.BlockBrickDyed.Silver.name=Light Grey Bricks

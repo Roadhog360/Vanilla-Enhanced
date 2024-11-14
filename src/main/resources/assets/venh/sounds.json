@@ -1,0 +1,21 @@
+{
+	"item.axe.strip": {
+		"category": "player",
+		"sounds": [
+			"item/axe/strip1",
+			"item/axe/strip2",
+			"item/axe/strip3",
+			"item/axe/strip4"
+		]
+	},
+	"item.spade.scrape": {
+		"category": "player",
+		"sounds": [
+			"item/spade/scrape1",
+			"item/spade/scrape2",
+			"item/spade/scrape3",
+			"item/spade/scrape4",
+			"item/spade/scrape5"
+		]
+	}
+}
